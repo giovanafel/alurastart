@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.cabeçalho{
+    background-color: rgb(155, 238, 61);
+    color: aliceblue;
+    display: flex;
+    justify-content: space-around;
+    padding: 24px;
+    }   
+
+    .cabeçalho-imagem{
+        width: 20% auto;
+    }
+
