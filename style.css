@@ -1,17 +1,36 @@
 *{
-    margin: 0;
-    padding: 0;
+    margin:0%;
+    padding:0%
 }
 
 .cabeçalho{
-    background-color: rgb(155, 238, 61);
-    color: aliceblue;
+    background-color: rgb(38, 39, 39);
+    color: rgb(255, 255, 255);
     display: flex;
     justify-content: space-around;
+    align-items: center;
     padding: 24px;
-    }   
+}
 
-    .cabeçalho-imagem{
-        width: 20% auto;
-    }
+.cabeçalho-imagem{
+    width:20%
+}
 
+
+
+
+
+
+
+.escola-imagem{
+    width: 25%;
+}
+
+.escola{
+    background-image:linear-gradient(rgb(38,39,30),rgb(255,255,255));
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: ;
+padding: 24px 0;;
+}
